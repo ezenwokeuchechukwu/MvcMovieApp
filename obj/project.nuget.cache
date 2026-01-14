@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QBwNLlPTqUA=",
+  "dgSpecHash": "lEjHut//mAA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\W01-DotNet-Assignment\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\MvcMovieApp\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

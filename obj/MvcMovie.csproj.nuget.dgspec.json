@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\W01-DotNet-Assignment\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\MvcMovieApp\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\W01-DotNet-Assignment\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\MvcMovieApp\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\W01-DotNet-Assignment\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\MvcMovieApp\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\W01-DotNet-Assignment\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\MvcMovieApp\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\W01-DotNet-Assignment\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\MvcMovieApp\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
