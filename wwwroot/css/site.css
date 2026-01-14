@@ -1,0 +1,41 @@
+/* Global font sizing */
+html {
+  position: relative;
+  min-height: 100%;
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Button focus styling */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* Improved form element styling */
+input, select, textarea {
+  padding: 8px;        /* space inside input */
+  margin-bottom: 10px; /* space below input */
+  border-radius: 4px;  /* rounded corners */
+  border: 1px solid #ccc; /* light border */
+}
+
+/* Optional: make search/filter inputs smaller inline */
+form input[type="text"],
+form input[type="number"] {
+  display: inline-block;
+  width: auto;
+  margin-right: 10px;
+}
